@@ -1,0 +1,14 @@
+/* Display Buttons nicely */
+.osoc-button
+{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+
+/* Fix Facebook Button alignment */
+.osoc-button.osoc-facebook
+{
+    position: relative;
+    top: -4px;
+}
